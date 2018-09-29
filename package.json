@@ -38,10 +38,10 @@
   "optionalDependencies": {
     "bluetooth-hci-socket": "^0.5.1",
     "bplist-parser": "0.0.6",
-    "xpc-connection": "sandeepmistry/node-xpc-connection#pull/26/head"
+    "xpc-connection": "sandeepmistry/node-xpc-connection/pull/26"
   },
   "resolutions": {
-    "xpc-connection": "sandeepmistry/node-xpc-connection#pull/26/head"
+    "xpc-connection": "sandeepmistry/node-xpc-connection/pull/26"
   },
   "devDependencies": {
     "jshint": "latest",
